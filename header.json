@@ -1,0 +1,17 @@
+{
+	"name"  : "Bryan Montiel González",
+	"titulos": "todos",
+	"mision": "ser el mejor progra",
+	"foto": "",
+	"email" : "zs21004530estudiantes.com.mx",
+	"celular"   : "(272)247 6449",
+	"ubicacion": "Orizaba, Veracruz, Mexico",
+	"redsocial": "X",
+	"social": {
+	  "face": "^2.8.5",
+	  "x": "^4.18.2"
+	}
+  }
+
+
+
